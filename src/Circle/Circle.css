@@ -1,0 +1,23 @@
+
+.circle-container {
+    display: inline-block;
+    
+  }
+
+
+
+  
+  .circle {
+    width: 30vw;
+    height: 30vw;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    margin: 1rem;
+   box-shadow: 0 0 5px black;
+  
+  }
+
+  .circle.active {
+    background: hotpink no-repeat center center/cover;
+  }
