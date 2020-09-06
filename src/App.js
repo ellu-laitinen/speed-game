@@ -16,7 +16,7 @@ class App extends Component {
     rounds: 0
   };
 
-  pace = 1800;
+  pace = 1300;
   timer = undefined;
 
   next = () => {
