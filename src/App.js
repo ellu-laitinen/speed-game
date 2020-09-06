@@ -16,7 +16,7 @@ class App extends Component {
     rounds: 0
   };
 
-  pace = 1300;
+  pace = 1800;
   timer = undefined;
 
   next = () => {
@@ -87,6 +87,7 @@ class App extends Component {
       <div>
 
         <h1>Speed Game</h1>
+        <h3>Catch the rainbow!</h3>
         <p>Current score: {this.state.score}</p>
 
 

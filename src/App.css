@@ -21,3 +21,9 @@ body {
 
 }
 
+h3 {
+
+  background: -webkit-linear-gradient(rgb(16, 189, 0), rgb(206, 82, 0), rgb(206, 48, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

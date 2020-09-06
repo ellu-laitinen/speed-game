@@ -19,5 +19,5 @@
   }
 
   .circle.active {
-    background: hotpink no-repeat center center/cover;
+    background: url('rainbow.jpg') no-repeat center center/cover;
   }
